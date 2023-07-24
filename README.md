@@ -10,9 +10,7 @@
   <td>
     <h2>🖥️ Workflow</h2>
 
-   ⌨️ I’m currently *working* on [MTG Deck Builder](https://github.com/OoL33/breakable_toy)
-
-   🔋 I’m currently *learning* **React with Express**
+   🔋 I’m currently *learning* **GO**
 
   </tr>
   </td>
