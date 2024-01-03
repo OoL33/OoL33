@@ -10,7 +10,7 @@
   <td>
     <h2>🖥️ Workflow</h2>
 
-   🔋 I’m currently *learning* **GO**
+   🔋 I’m currently *learning* **blockchain development**
 
   </tr>
   </td>
